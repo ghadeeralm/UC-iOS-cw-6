@@ -61,7 +61,7 @@ struct ContentView: View {
                     .clipShape(Capsule())
                     .foregroundColor(.pink)
             }
-            .border(.blue, width:2)
+            .border(.blue, width:1)
         }
     }
         
